@@ -3,5 +3,4 @@
 
 A MacOS app built using Swift, Appkit, RealityKit Object capture which
 uses a series of 2D images to construct a 3D Mesh with textures,
-lighting. The app has built-in model viewer which uses Metal graphics
-API to render the preview of the generated 3D Model.
+lighting. The app has built-in model viewer which uses Scenekit with metal to render the preview of the generated 3D Model.
